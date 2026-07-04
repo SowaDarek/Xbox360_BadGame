@@ -37,6 +37,8 @@ Before getting started, you'll need:
 
 A complete setup guide is included in **`TUTORIAL.txt`**.
 
+---
+
 ### Quick Overview
 
 1. Download or clone this repository.
@@ -79,8 +81,6 @@ Xbox360_BadGame/
 └── ...
 ```
 
----
-
 ## Contributing
 
 Contributions are welcome.
@@ -107,14 +107,6 @@ Open an issue with as much detail as possible so it can be investigated.
 * BadUpdate exploit developers
 * XEXTool developers for making executable patching possible
 * The Xbox 360 homebrew community for documentation, research, and testing
-
----
-
-## License
-
-This repository currently does not include a license.
-
-If you plan to allow others to reuse or modify your work, consider adding an open-source license such as MIT or GPL.
 
 ---
 
