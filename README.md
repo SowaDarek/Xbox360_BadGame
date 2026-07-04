@@ -35,7 +35,7 @@ Before getting started, you'll need:
 
 ## Tutorial
 
-A complete setup guide is included in **`TUTORIAL.txt`**.
+A complete setup guide is included in [**TUTORIAL.txt**](TUTORIAL.txt).
 
 ---
 
