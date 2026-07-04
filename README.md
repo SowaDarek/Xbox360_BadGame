@@ -5,7 +5,7 @@
 ![GitHub license](https://img.shields.io/github/license/fat50yomanfrommc/Xbox360_BadGame?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/fat50yomanfrommc/Xbox360_BadGame?style=for-the-badge)
 
-A repository containing the files and resources required to use **Xbox 360 BadUpdate** with a patched game disc.
+A repository containing the files and resources required to use [**Xbox360BadUpdate**](https://github.com/grimdoomer/Xbox360BadUpdate) with a patched game disc.
 
 > [!IMPORTANT]
 > This repository is provided for educational, archival, and homebrew purposes only. Please comply with applicable copyright laws and only use software and game backups that you are legally permitted to use.
