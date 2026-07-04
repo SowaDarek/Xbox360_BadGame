@@ -42,7 +42,7 @@ A complete setup guide is included in **`TUTORIAL.txt`**.
 4. Burn the patched game to a compatible DVD+R DL disc.
 5. Copy any required files to your USB storage device.
 6. Launch BadUpdate and insert the patched disc.
-7. Follow the instructions from the tutorial.
+7. Enjoy playing the game.
 
 > **Note**
 >
@@ -71,10 +71,9 @@ Xbox360_BadGame/
 │
 ├── README.md
 ├── TUTORIAL.txt
+├── BadUpdate-ReadyUSB.zip
 ├── project_assets/
 │   └── MGSLogo.gif
-├── Files/
-├── Images/
 └── ...
 ```
 
