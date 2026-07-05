@@ -119,8 +119,8 @@ Open an issue with as much detail as possible.
 
 ## Credits
 
-- BadUpdate exploit developers
-- XEXTool developers
+- [BadUpdate exploit](https://github.com/grimdoomer/Xbox360BadUpdate) developers
+- [XEXTool](https://digiex.net/threads/xextool-6-3-download.9523/) developers
 - Xbox 360 homebrew community
 
 ---
