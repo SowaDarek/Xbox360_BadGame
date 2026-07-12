@@ -23,7 +23,7 @@ A repository containing the files and resources required to use [Xbox360BadUpdat
 | MID | Status | Notes |
 |------|:-----:|-------|
 | `UMEDISC-DL1-64` | ❌ | Console can read the disc, but heavy streaming/loading screens fail. |
-| `RICOHJPN-D01-67` | ✅ | Fully working. No issues encountered. |
+| `RICOHJPN-D01-67` | ✅ | None. |
 
 ---
 
